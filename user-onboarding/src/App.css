@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 15%;
+  margin-left: 40%;
+  padding-top: 2%;
+}
+
+.input-cont {
+  margin-bottom: 6%;
+  text-align: center;
+  width: 75%;
+}
+
+.dropdown-cont {
+  width: 77%;
+}
+
+.btn {
+  width: 77%;
+}
+
+.checkbox-cont {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 90px;
+  cursor: pointer;
+  font-size: 18px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.title {
+  margin-right: 20%;
+  margin-top: 3%;
+}
+
+li {
+  list-style-type: none;
+  margin-right: 11%;
+}
+
+
+
+
+
+
+
+
+
+
